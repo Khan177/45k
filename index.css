@@ -685,10 +685,7 @@ button:focus{
     .header a{
         font-size:0.5em!important;
     }
-    .second-page-header h2{
-        font-size:0.7em;
-        white-space: pre-wrap;
-    }
+    
     .headings-box h1{
         font-size:1.6em;
     }
@@ -791,6 +788,13 @@ button:focus{
     }
     .vac-col{
       margin-right:2%;
+    }
+    h2,h3,h4{
+        font-size:1em!important;
+        white-space: pre-wrap!important;
+    }
+    .second-page-header h2{
+      font-size:0.7em;
     }
 }
 
